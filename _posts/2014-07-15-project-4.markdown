@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15 00:00:00
-img: interior-design.png
+img: interior-Design.png
 alt: image-alt
 project-date: 2014-04-01 00:00:00
 client: Start Bootstrap
