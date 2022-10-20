@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17 00:00:00
-img: cake.png
+img: SELL.png
 alt: image-alt
 project-date: 2014-04-01 00:00:00
 client: Start Bootstrap
